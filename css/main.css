@@ -7,7 +7,8 @@
 body {
   font: 16px/1.4 Arial;
   margin: 0;
-  background-image: url(https://gitee.com/darki/img/raw/master/1631081013043.webp)
+  background-image: url(https://gitee.com/darki/img/raw/master/1631081013043.webp);
+  
 }
 
 
@@ -249,7 +250,6 @@ box-shadow: 0 0 10px #FDA31E;
 
 .div1 {
   overflow: hidden;
-  
 }
 
 
